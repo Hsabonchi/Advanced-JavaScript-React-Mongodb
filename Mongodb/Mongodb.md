@@ -9,7 +9,8 @@ Create two recipes objects. You may hard-code a couple of simple, make-up recipe
 -- they don't need to be complex or real, but they should have all the properties described above.
 Query the database for recipes that use the ingredients "beef" and "potato". Print out the id and name of the recipes found.
 Query the database for recipes whose names include the word "Steak". 
-Print out the id and name of the recipes found. You must use Text Search for this query. You can create the necessary text index outside the program.</pre>
+Print out the id and name of the recipes found. You must use Text Search for this query. 
+You can create the necessary text index outside the program.</pre>
 
 
 
