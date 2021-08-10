@@ -1,6 +1,7 @@
 <h2> MongoDB Server </h2>
 
-<pre> Arecipe, like General Tso's Cauliflower (Links to an external site.), 
+<pre> 
+  Arecipe, like General Tso's Cauliflower (Links to an external site.), 
  has a name, yield (i.e. number of servings), a number of ingredients, 
  and directions (which consist of a number of steps). 
  Note that quantity needs to be specified for some ingredients (e.g. 2 teaspoons of oil) but not for the others (e.g. salt).
