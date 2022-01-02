@@ -1,9 +1,8 @@
 <h2> MongoDB Server </h2>
-[Go to the Support Web Site](https://support.west-wind.com)
-
-<p> Install MongoDB Compass on Mac [Link] (http://127.0.0.1:8000/myapp/) </p>
 
 
+[Install MongoDB Compass](https://www.mongodb.com/try/download/compass?tck=docs_compass&_ga=2.164068985.751080216.1641090944-1085455098.1640459631) <br>
+[Install MongoDB Community Edition on macOS]
 
 
 
