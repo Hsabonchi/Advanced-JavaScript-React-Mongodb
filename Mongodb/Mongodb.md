@@ -8,32 +8,11 @@ Intuitive and flexible, Compass provides detailed schema visualizations,
 real-time performance metrics, sophisticated querying abilities, and much more.
 </pre>
 
+[Install MongoDB Community Edition on macOS](https://docs.mongodb.com/v4.2/tutorial/install-mongodb-on-os-x/)<br>
 [Install MongoDB Compass](https://www.mongodb.com/try/download/compass?tck=docs_compass&_ga=2.164068985.751080216.1641090944-1085455098.1640459631) <br>
-[Connect to MongoDB](https://docs.mongodb.com/compass/current/connect/#connect-to-mongodb)
+[How to use MongoDB Compass to connect to a MongoDB host](https://docs.mongodb.com/compass/current/connect/#connect-to-mongodb)
 
-
-
-
-<pre> 
-  Arecipe, like General Tso's Cauliflower (Links to an external site.), 
- has a name, yield (i.e. number of servings), a number of ingredients, 
- and directions (which consist of a number of steps). 
- Note that quantity needs to be specified for some ingredients (e.g. 2 teaspoons of oil) but not for the others (e.g. salt).
-please create a Node.js program that does the following:
-Create two recipes objects. You may hard-code a couple of simple, make-up recipes 
--- they don't need to be complex or real, but they should have all the properties described above.
-Query the database for recipes that use the ingredients "beef" and "potato". Print out the id and name of the recipes found.
-Query the database for recipes whose names include the word "Steak". 
-Print out the id and name of the recipes found. You must use Text Search for this query. 
-You can create the necessary text index outside the program.</pre>
-
-
-
-
-
-
-
-
+#### Notes
 <ul>
 <li> A collection is the equivalent of a table in relational databases </li>
 <li> Collection does notenforce a schema </li>
@@ -58,6 +37,33 @@ You can create the necessary text index outside the program.</pre>
     <li> if you do not specify an _id field, then MongoDB will add one for you and assign a unique id for each document.</h4>
     <li>Embedded documents capture relationships between data by storing related data in a single document structure</li>
   </ul>
+
+
+
+
+<pre> 
+  Arecipe, like General Tso's Cauliflower (Links to an external site.), 
+ has a name, yield (i.e. number of servings), a number of ingredients, 
+ and directions (which consist of a number of steps). 
+ Note that quantity needs to be specified for some ingredients (e.g. 2 teaspoons of oil) but not for the others (e.g. salt).
+please create a Node.js program that does the following:
+Create two recipes objects. You may hard-code a couple of simple, make-up recipes 
+-- they don't need to be complex or real, but they should have all the properties described above.
+Query the database for recipes that use the ingredients "beef" and "potato". Print out the id and name of the recipes found.
+Query the database for recipes whose names include the word "Steak". 
+Print out the id and name of the recipes found. You must use Text Search for this query. 
+You can create the necessary text index outside the program.</pre>
+
+
+
+
+
+
+
+
+
+
+
   
 ---
 
