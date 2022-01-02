@@ -1,4 +1,12 @@
 <h2> MongoDB Server </h2>
+[Go to the Support Web Site](https://support.west-wind.com)
+
+<p> Install MongoDB Compass on Mac [Link] (http://127.0.0.1:8000/myapp/) </p>
+
+
+
+
+
 
 <pre> 
   Arecipe, like General Tso's Cauliflower (Links to an external site.), 
