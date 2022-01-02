@@ -1,5 +1,12 @@
 <h2> MongoDB Server </h2>
 
+<pre> What is a MongoDB Compass?
+
+MongoDB Compass is a powerful GUI for querying, aggregating, and analyzing your MongoDB data 
+in a visual environment. Easily explore and manipulate your database with Compass, the GUI for MongoDB. 
+Intuitive and flexible, Compass provides detailed schema visualizations, 
+real-time performance metrics, sophisticated querying abilities, and much more.
+</pre>
 
 [Install MongoDB Compass](https://www.mongodb.com/try/download/compass?tck=docs_compass&_ga=2.164068985.751080216.1641090944-1085455098.1640459631) <br>
 [Install MongoDB Community Edition on macOS]
