@@ -1,4 +1,4 @@
-# Mongodb example to does the following;
+# Mongodb example that does the following;
 
 
 * Create objects. 
