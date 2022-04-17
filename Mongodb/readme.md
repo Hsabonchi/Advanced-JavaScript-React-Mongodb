@@ -1,5 +1,5 @@
 
-| Topic     | Notes |
+| Quick Links     | Notes |
 | --- | --- |
 | [Introduction to Mongodb][1] | Lecture |
 | [mongo-aggregation.md][2]    | Lecture  |
